@@ -55,7 +55,12 @@ Atualmente focada em aprimorar minhas habilidades em programação e construir p
 
 ---
 
-> 💡 _"A melhor maneira de prever o futuro é criá-lo."_ – Alan Kay
+### 🐍 Cobra comendo meus commits:
+
+<p align="center">
+  <img src="https://github.com/sllnoliveira/sllnoliveira/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
 
 
 
