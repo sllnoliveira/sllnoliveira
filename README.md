@@ -55,8 +55,6 @@ Atualmente focada em aprimorar minhas habilidades em programação e construir p
 
 ---
 
-### 🐍 Cobra comendo meus commits:
-
 <p align="center">
   <img src="https://github.com/sllnoliveira/sllnoliveira/blob/output/github-contribution-grid-snake.svg" />
 </p>
