@@ -1,7 +1,4 @@
-<!-- Banner superior -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=AA7DFF,99CCFF&height=200&section=header&text=Bem-vinda%20ao%20meu%20GitHub!&fontSize=30&fontColor=ffffff" />
-</p>
+
 
 ### ✨ Olá! Seja bem-vindo(a)!
 
@@ -46,7 +43,5 @@ Atualmente focada em aprimorar minhas habilidades em programação e construir p
 
 > 💡 _"A melhor maneira de prever o futuro é criá-lo."_ – Alan Kay
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=99CCFF,AA7DFF&height=120&section=footer"/>
-</p>
+
 
