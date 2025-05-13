@@ -2,13 +2,17 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # todo dia à meia-noite
+    - cron: "0 0 * * *" # roda todo dia à meia-noite
   workflow_dispatch:
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
+
     steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
       - name: Generate the snake animation
         uses: Platane/snk@v3
         with:
@@ -17,8 +21,8 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake.gif
 
-      - name: Push the snake animation to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
