@@ -46,7 +46,3 @@
 <img src="https://raw.githubusercontent.com/sllnoliveira/sllnoliveira/output/snake.svg" alt="Snake animation" />
 
 ###
-
-
-
-
