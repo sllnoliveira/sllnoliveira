@@ -3,6 +3,14 @@
 ###
 
 <div align="center">
+  <a href="https://www.linkedin.com/in/suellen-oliveira-5235b6224/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
@@ -23,7 +31,8 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=sllnoliveira&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=0&order=3" height="121" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=sllnoliveira&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=sllnoliveira&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=0&order=3" height="175" alt="streak graph"  />
 </div>
 
 ###
@@ -37,15 +46,7 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/suellen-oliveira-5235b6224/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://count.getloli.com/@:sllnoliveira?theme=sketch-2&padding=6&scale=1&align=bottom&pixelated=1&darkmode=auto"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=sllnoliveira.sllnoliveira&"  />
 </div>
 
 ###
