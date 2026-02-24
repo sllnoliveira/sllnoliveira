@@ -1,12 +1,16 @@
-<h1 align="center">Oii 👋beleza?</h1>
+<h1 align="center">Oi 👋</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&size=25&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Hi%2C%20I'm%20Suellen!;Computer%20Science%20Student%20%F0%9F%92%BB;Future%20Software%20Developer%20%F0%9F%9A%80;" alt="Typing SVG" />
+</p>
 
+<hr style="border: none; height: 2px; background: linear-gradient(to right, #a78bfa, #c4b5fd, #ddd6fe);" />
 
 ###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/suellen-oliveira-5235b6224/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&style=for-the-badge" height="25" alt="linkedin logo"/>
   </a>
 </div>
 
@@ -33,8 +37,13 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sllnoliveira&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=sllnoliveira&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=0&order=3" height="175" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=sllnoliveira&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=0&date_format=j%20M%5B%20Y%5D&order=3" height="200" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://media1.tenor.com/m/rkY5QA5c3VAAAAAd/gato-digitando.gif"  />
 </div>
 
 ###
