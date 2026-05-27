@@ -7,7 +7,7 @@
 <hr style="border: none; height: 2px; background: linear-gradient(to right, #a78bfa, #c4b5fd, #ddd6fe);" />
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/suellen-oliveira-5235b6224/" target="_blank">
+  <a href="https://www.linkedin.com/in/suellenroliveiradev/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&style=for-the-badge" height="22"/>
   </a>
 </div>
